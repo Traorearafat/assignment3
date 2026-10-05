@@ -1,0 +1,39 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Three - Flexbox</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- 4. Build a nav bar -->
+    <nav class="navbar">
+        <div class="logo">My Logo</div>
+
+        <div class="menu">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">Contact</a>
+        </div>
+    </nav>
+
+
+    <!-- 1. Make a 3-item row -->
+    <section class="three-items">
+        <div class="item">Item 1</div>
+        <div class="item">Item 2</div>
+        <div class="item">Item 3</div>
+    </section>
+
+
+    <!-- 2. Space it out -->
+    <section class="space-out">
+        <div>One</div>
+        <div>Two</div>
+        <div>Three</div>
+    </section>
+
